@@ -1,7 +1,8 @@
 # Classic-Graph-Theory-Problem
 
 
-Find all possible solutions for 3 containers with capacities: 10, 7, 4
+[Three Glass Puzzle](http://www.cut-the-knot.org/wgraph.shtml): Find all possible solutions for 3 containers with capacities: 10, 7, 4
+
 
     Looking For: TupleContainer [X=< Capacity: 10 , Current Volume: 2 >, Y=< Capacity: 7 , Current Volume: 5 >, Z=< Capacity: 4 , Current Volume: 4 >]
     Depth Level: 5.0
