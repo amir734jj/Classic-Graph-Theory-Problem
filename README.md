@@ -2,6 +2,7 @@
 
 
 Find all possible solutions for 3 containers with capacities: 10, 7, 4
+
     Looking For: TupleContainer [X=< Capacity: 10 , Current Volume: 2 >, Y=< Capacity: 7 , Current Volume: 5 >, Z=< Capacity: 4 , Current Volume: 4 >]
     Depth Level: 5.0
     (TupleContainer [X=< Capacity: 10 , Current Volume: 0 >, Y=< Capacity: 7 , Current Volume: 7 >, Z=< Capacity: 4 , Current Volume: 4 >] : TupleContainer [X=< Capacity: 10 , Current Volume: 4 >, Y=< Capacity: 7 , Current Volume: 7 >, Z=< Capacity: 4 , Current Volume: 0 >])
